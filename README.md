@@ -6,7 +6,7 @@
 
   MATRIC NUMBER: 269509
 
-  ![photo1](https://github.com/jiaearn/STIA1113-Programming1-Assignment1/earn.JPG)
+  ![photo1](https://github.com/jiaearn/STIA1113-Programming1-Assignment1/blob/main/earn.JPG)
 
 ## Introduction:
 
